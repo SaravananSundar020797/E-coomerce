@@ -10,6 +10,6 @@ export class NavBarComponent {
 
   toggleMenu() {
     this.menuActive = !this.menuActive;
-    console.log('Menu active:', this.menuActive); // Debug log to check toggle functionality
+    console.log("hello"); // Debug log to check toggle functionality
   }
 }
